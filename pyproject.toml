@@ -1,0 +1,11 @@
+[project]
+name = "lang-graph"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "ipykernel>=7.1.0",
+    "ipython>=9.7.0",
+    "langgraph>=1.0.3",
+]
